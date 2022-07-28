@@ -1,1 +1,3 @@
 Roronoa Zoro
+
+/* The package.json file was made after i used command [in CMD] -> node init  */
