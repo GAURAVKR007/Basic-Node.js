@@ -5,9 +5,9 @@
 
 console.log("==========================================");
 
-console.log("Superheroes");
+console.log("Superheroes :");
 
-const superheroes = require('superheroes : ');
+const superheroes = require('superheroes');
 var hero = [];
 
 for(var i = 1;i<=10;i++){
@@ -26,7 +26,7 @@ const supervillains = require('supervillains');
 var villan = [];
 
 for(var i = 1;i<=10;i++){
-villan.push(superheroes.random());
+villan.push(supervillains.random());
 }
 
 console.log(villan);
